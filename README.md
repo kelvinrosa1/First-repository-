@@ -1,2 +1,2 @@
-# First-reppsitory-
+# First-repository-
 Practice
